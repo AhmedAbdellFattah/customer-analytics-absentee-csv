@@ -1,0 +1,4 @@
+Top 3 features by variance:
+- PC1: variance=3.7196
+- PC2: variance=2.7218
+- PC3: variance=2.0356
